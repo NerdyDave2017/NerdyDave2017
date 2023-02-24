@@ -2,25 +2,25 @@
 
   
 <!-- Heading -->
-## Hi there! I'm :nerd_face: AyoMide :nerd_face:
+## ✨Hi there! I'm :nerd_face: AyoMide :nerd_face:
 <!-- Profile Views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdydave2017&label=Profile%20views&color=0e75b6&style=flat" alt="nerdydave2017" />
 </p> -->
 <!-- Social Media -->
 <!-- About section -->
 ![ayomide](https://res.cloudinary.com/nerdydave2017/image/upload/v1677208787/Personal%20Images/Grey_Minimalist_Designer_Linkedin_Banner_osvxc5.png)
-### About Me
+### ✨About Me
 
 Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
   
-### Languages
+### ✨Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
-### Technologies
+### ✨Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ## Some Stats
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="120em" height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="120em" height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="120em" height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100vw" height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="100vw" height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="100vw" height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
