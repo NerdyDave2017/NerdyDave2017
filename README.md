@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Some Stats
+### Some Stats
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true"></a>&nbsp;
