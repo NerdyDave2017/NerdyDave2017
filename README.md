@@ -3,16 +3,12 @@
   
 <!-- Heading -->
 ## Hi there! I'm :nerd_face: AyoMide :nerd_face:
-
 <!-- Profile Views -->
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdydave2017&label=Profile%20views&color=0e75b6&style=flat" alt="nerdydave2017" />
 </p> -->
-
 <!-- Social Media -->
-
-
 <!-- About section -->
+![ayomide](https://myoctocat.com/assets/images/base-octocat.svg))
 ### About Me
 
 Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
