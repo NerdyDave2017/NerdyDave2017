@@ -13,12 +13,12 @@
 
 Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
 
-🔭 I’m currently working on Gasless Ethereum meta-transactions
-🌱 I’m currently learning and building with Golang and Rust
-👯 I’m looking to collaborate on Blockchain Technology, Dapps, Web Technologies also.
-💬 Ask me about Blockchain Technology, Frontend Engineering, BackendEngineering, Software engineering.
-😄 Pronouns: He, Him, His.
-⚡ Fun fact: I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
+- 🔭 I’m currently working on Gasless Ethereum meta-transactions
+- 🌱 I’m currently learning and building with Golang and Rust
+- 👯 I’m looking to collaborate on Blockchain Technology, Dapps, Web Technologies also.
+- 💬 Ask me about Blockchain Technology, Frontend Engineering, BackendEngineering, Software engineering.
+- 😄 Pronouns: He, Him, His.
+- ⚡ Fun fact: I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
   
 ### ✨ Languages
 
