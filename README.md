@@ -8,7 +8,7 @@
 </p> -->
 <!-- Social Media -->
 <!-- About section -->
-![ayomide](https://myoctocat.com/assets/images/base-octocat.svg))
+![ayomide](https://res.cloudinary.com/nerdydave2017/image/upload/v1677208787/Personal%20Images/Grey_Minimalist_Designer_Linkedin_Banner_osvxc5.png)))
 ### About Me
 
 Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
