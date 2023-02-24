@@ -2,7 +2,7 @@
 
   
 <!-- Heading -->
-# Hi there! I'm 🤓AyoMide🤓
+# Hi there! I'm :nerd_face: AyoMide :nerd_face:
 
 <!-- Profile Views -->
 
