@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ## Some Stats
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=Xavier577&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier577&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=Xavier577&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="120em" height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img width="120em" height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="120em" height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
