@@ -16,7 +16,7 @@ Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I 
 - 🔭 I’m currently working on Gasless Ethereum meta-transactions
 - 🌱 I’m currently learning and building with Golang and Rust
 - 👯 I’m looking to collaborate on Blockchain Technology, Dapps, Web Technologies also.
-- 💬 Ask me about Blockchain Technology, Frontend Engineering, BackendEngineering, Software engineering.
+- 💬 Ask me about Blockchain Technology, Frontend Engineering, Backend Engineering, Software engineering.
 - 😄 Pronouns: He, Him, His.
 - ⚡ Fun fact: I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
   
