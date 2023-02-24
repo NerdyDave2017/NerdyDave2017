@@ -2,7 +2,7 @@
 
   
 <!-- Heading -->
-#Hi there! I'm 🤓AyoMide🤓</h3>
+# Hi there! I'm 🤓AyoMide🤓
 
 <!-- Profile Views -->
 
@@ -15,7 +15,7 @@
 <!-- About section -->
 
 ---
-###About Me
+### About Me
 
 Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
   
