@@ -17,6 +17,7 @@ Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
