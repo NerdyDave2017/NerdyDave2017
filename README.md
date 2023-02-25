@@ -18,7 +18,7 @@ Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I 
 - 👯 I’m looking to collaborate on Blockchain Technology, Dapps, Web Technologies also.
 - 💬 Ask me about Blockchain Technology, Frontend Engineering, Backend Engineering, Software engineering.
 - 😄 Pronouns: He, Him, His.
-- ⚡ Fun fact: I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
+- ⚡ Fun fact: I am a multipotentialite, basically, I have multiple interests and things I engage in. I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
   
 ### ✨ Languages
 
