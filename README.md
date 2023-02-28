@@ -60,3 +60,5 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
 </div>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerdydave2017)](https://github.com/anuraghazra/github-readme-stats)
+
