@@ -1,6 +1,4 @@
-## ✨ Hi there! I’m AyoMide 👋🏽
-
-![ayomide](https://res.cloudinary.com/nerdydave2017/image/upload/v1677208787/Personal%20Images/Grey_Minimalist_Designer_Linkedin_Banner_osvxc5.png)
+## ✨ Hi there! I’m Kistian Egger 👋🏽
 
 ### ✨ About Me
 
