@@ -6,7 +6,7 @@ I’m **Kistian Egger** — a **software engineer** focused on execution, system
 
 I operate across **advanced frontend engineering**, **backend & systems development**, and a growing transition into **AI/ML-enabled systems**. I’m interested in how ideas move from concept → architecture → production, and what it takes to keep systems reliable, performant, and maintainable over time.
 
-I learn new things very fast. I consume large amounts of information, synthesize ideas quickly, and turn them into working systems. My mindset has shifted from “having many interests” to **executing across disciplines** — closer to a *polymath approach* than passive curiosity.
+I learn new things very fast. I consume large amounts of information, synthesize ideas quickly, and turn them into working systems. 
 
 ---
 
