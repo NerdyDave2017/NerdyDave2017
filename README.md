@@ -1,64 +1,120 @@
+## ✨ Hi there! I’m AyoMide 👋🏽
 
-
-  
-<!-- Heading -->
-## ✨ Hi there! I'm :nerd_face: AyoMide :nerd_face:
-<!-- Profile Views -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdydave2017&label=Profile%20views&color=0e75b6&style=flat" alt="nerdydave2017" />
-</p> -->
-<!-- Social Media -->
-<!-- About section -->
 ![ayomide](https://res.cloudinary.com/nerdydave2017/image/upload/v1677208787/Personal%20Images/Grey_Minimalist_Designer_Linkedin_Banner_osvxc5.png)
+
 ### ✨ About Me
 
-Hello there! My name is Oluwasegun Ayomide Ajayi( <i>Ayo</i> for short ), and I am a web developer and blockchain enthusiast. I have experience in a variety of technologies, including Golang, Node.js, TypeScript, Solidity, and more. I am passionate about building decentralized applications and exploring the potential of blockchain technology. In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I also do some technical writing and play chess. Check out my repositories to see some of the exciting projects I'm currently working on. Let's build the future together!
+I’m **Kistian Egger** — a **software engineer** focused on execution, systems thinking, and building software that actually works in the real world.
 
-- 🔭 I’m currently working on Gasless Ethereum meta-transactions
-- 🌱 I’m currently learning and building with Golang and Rust
-- 👯 I’m looking to collaborate on Blockchain Technology, Dapps, Web Technologies also.
-- 💬 Ask me about Blockchain Technology, Frontend Engineering, Backend Engineering, Software engineering.
-- 😄 Pronouns: He, Him, His.
-- ⚡ Fun fact: I am a multipotentialite, basically, I have multiple interests and things I engage in. I love chess, I love to read books. I love art, history and philosophy, I am always listening to music.
-  
+I operate across **advanced frontend engineering**, **backend & systems development**, and a growing transition into **AI/ML-enabled systems**. I’m interested in how ideas move from concept → architecture → production, and what it takes to keep systems reliable, performant, and maintainable over time.
+
+I learn new things very fast. I consume large amounts of information, synthesize ideas quickly, and turn them into working systems. My mindset has shifted from “having many interests” to **executing across disciplines** — closer to a *polymath approach* than passive curiosity.
+
+---
+
+### ✨ What I’m Currently Building & Exploring
+
+- 🔭 A **file-sharing and management system in Go**  
+  Designed with concurrency, performance, storage workflows, clean APIs, and real-world constraints in mind.
+
+- 🧠 A **manager / orchestration-style backend system in Go**  
+  Exploring service coordination, graceful shutdowns, reliability, and system boundaries.
+
+- 🎨 Frontend-heavy applications using **React, TypeScript, and modern tooling**  
+  Focused on architecture, performance, animations, and user experience — not just visuals.
+
+- 🤖 A deliberate transition into **AI/ML-powered systems**  
+  Practical applications such as automation, intelligent features, and developer-facing tools.
+
+- ✍🏽 Technical writing  
+  Breaking down complex engineering topics (systems, tooling, runtimes, architecture) into clear, usable ideas.
+
+---
+
+### ✨ Engineering Principles
+
+I value software that:
+- Makes tradeoffs explicit  
+- Handles failure gracefully  
+- Separates concerns cleanly  
+- Performs well under load  
+- Feels simple because complexity was handled intentionally  
+
+I aim to build systems that scale in **users, complexity, and time**.
+
+---
+
 ### ✨ Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+
+---
+
+### ✨ Technologies & Tools
+
+**Frontend**
+- React, Next.js, React Native  
+- Modern CSS, animations, 3D, performance optimization  
+- Tooling: Vite, Webpack, Babel
+
+**Backend & Systems**
+- Go (primary focus)  
+- Node.js  
+- RESTful APIs, service design  
 
 
-### ✨ Technologies
+**Data & Infrastructure**
+- MongoDB, Redis
+- Postgresql
+- Docker  
+- AWS  
+- Linux  
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+**AI / ML**
+- Python-based experimentation  
+- Integrating intelligent features into production systems
+- Learning how to build ML models
 
-### ✨ Socials
+---
 
+### ✨ Beyond Engineering
 
+- 🏃🏽 Running & 🏊🏽 Swimming
+- ✍🏽 I Write both 
+- 🎬 Watching classic films and older movies  
+- 📚 Reading fiction and historical books  
+- 🧠 Studying psychology and philosophy  
+- 📷 Interest in cinematography & photography  
 
-<!-- **NerdyDave2017/NerdyDave2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If I weren’t an engineer, I’d be working in a creative field. I have a strong eye for **design**, understand **color and visual balance**, and care deeply about how things *look and feel*. This perspective directly influences how I design interfaces and systems.
 
-Here are some ideas to get you started: -->
+---
 
+### ✨ Personal Notes
 
+- 😄 Pronouns: He / Him  
+- ⚡ Fast learner with a bias toward execution and shipping real systems
 
-### ✨ Some Stats
+---
+
+### ✨ Stats
+
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&hide_rank=false&theme=dark&show_icons=true&hide_border=true"></a>&nbsp;
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true"></a>&nbsp;
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&hide_title=true&theme=dark&t&langs_count=10&hide_border=true"></a>&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=nerdydave2017&hide_title=true&line_height=25&theme=dark&show_icons=true&hide_border=true">
+</a>
+&nbsp;
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdydave2017&theme=dark&hide_border=true">
+</a>
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="129.6em" src="https://github-readme-stats-bpires.vercel.app/api/top-langs/?username=nerdydave2017&layout=compact&card_width=400&theme=dark&langs_count=10&hide_border=true">
+</a>
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerdydave2017)](https://github.com/anuraghazra/github-readme-stats)
-
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nerdydave2017)](https://github.com/anuraghazra/github-readme-stats)
