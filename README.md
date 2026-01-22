@@ -82,7 +82,7 @@ I aim to build systems that scale in **users, complexity, and time**.
 ### ✨ Beyond Engineering
 
 - 🏃🏽 Running & 🏊🏽 Swimming
-- ✍🏽 I Write both 
+- ✍🏽 I Write
 - 🎬 Watching classic films and older movies  
 - 📚 Reading fiction and historical books  
 - 🧠 Studying psychology and philosophy  
