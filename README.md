@@ -1,8 +1,9 @@
-## ✨ Hi there! I’m Kistian Egger 👋🏽
+## ✨ Hi there! I’m AyoMide 👋🏽
+![ayomide](https://res.cloudinary.com/nerdydave2017/image/upload/v1677208787/Personal%20Images/Grey_Minimalist_Designer_Linkedin_Banner_osvxc5.png)
 
 ### ✨ About Me
 
-I’m **Kistian Egger** — a **software engineer** focused on execution, systems thinking, and building software that actually works in the real world.
+I’m **AyoMide** — a **software engineer** focused on execution, systems thinking, and building software that actually works in the real world.
 
 I operate across **advanced frontend engineering**, **backend & systems development**, and a growing transition into **AI/ML-enabled systems**. I’m interested in how ideas move from concept → architecture → production, and what it takes to keep systems reliable, performant, and maintainable over time.
 
